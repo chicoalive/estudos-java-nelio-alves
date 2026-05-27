@@ -1,0 +1,10 @@
+Mouse,25.50
+Teclado,120.00
+Monitor,450.75
+Webcam,89.90
+Headset,150.00
+Mousepad,45.00
+Caixa de Som,75.00
+Notebook,2500.00
+Celular,890.00
+Carregador,35.00

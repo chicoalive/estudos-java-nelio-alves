@@ -1,0 +1,9 @@
+4
+tv
+900
+mouse
+50
+tablet
+350.50
+Hd case
+80.90
